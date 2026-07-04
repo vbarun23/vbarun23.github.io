@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.vbarun23.twa",
+        "sha256_cert_fingerprints": ["87:83:4B:94:CC:F5:E2:C0:C7:80:AC:B6:CF:2C:B7:EC:41:FF:FA:61:99:14:B6:48:5C:3A:CC:07:D2:14:60:3F"]
+      }
+    }]
